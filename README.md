@@ -1,0 +1,2 @@
+# learnPinia
+myPinia
