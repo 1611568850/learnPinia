@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue3compents
 
 ## Project setup
@@ -22,3 +23,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# learnPinia
+myPinia
+>>>>>>> refs/remotes/origin/main
