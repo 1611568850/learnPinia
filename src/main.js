@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-
-createApp(App).mount('#app')
+import router from '@/router/index'
+import pinia from '@/stores/index'
+createApp(App).use(router).use(pinia).mount('#app')
